@@ -23,7 +23,6 @@ public class BasicAttack : MonoBehaviour {
         controller = GetComponent<CatController>();
         move = GetComponent<Move>();
         anim = GetComponent<Animator>();
-        move = GetComponent<Move>();
     }
 
     void Update()
