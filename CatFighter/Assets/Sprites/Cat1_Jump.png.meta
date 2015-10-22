@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 951e167b89c3cda4b8657b53a02ab77d
+timeCreated: 1444509164
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cat1_Jump_0
+    21300002: Cat1_Jump_1
+    21300004: Cat1_Jump_2
+    21300006: Cat1_Jump_3
+    21300008: Cat1_Jump_4
+    21300010: Cat1_Jump_5
+    21300012: Cat1_Jump_6
+    21300014: Cat1_Jump_7
+    21300016: Cat1_Jump_8
+    21300018: Cat1_Jump_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cat1_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 11
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 11
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 12
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 17
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 18
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 17
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 12
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat1_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 11
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
